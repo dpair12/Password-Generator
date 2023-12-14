@@ -16,6 +16,7 @@ Designed logic to generate password once all prompts have been answered and to d
 
 # Link to Live Application
 
+https://dpair12.github.io/Password-Generator/
 
 # Guidelines for Uses
 Feel free to use the code as a reference for building a password generator, add it to your own website, or feel free to share it with others.
