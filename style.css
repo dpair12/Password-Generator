@@ -1,8 +1,11 @@
+/*Universal Selector*/
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
+
+/*Element Selectors*/
 
 html,
 body,
@@ -16,6 +19,8 @@ body {
   font-family: sans-serif;
   background-color: #f9fbfd;
 }
+
+/*Class Selectors*/
 
 .wrapper {
   padding-top: 30px;
@@ -97,6 +102,8 @@ button[disabled] {
   float: right;
 }
 
+/*Id Selector*/
+
 #password {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -118,6 +125,8 @@ button[disabled] {
   overflow: hidden;
 }
 
+
+/*Media Queries*/
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
